@@ -87,13 +87,10 @@ body {
 }
 
 .logo-image {
-    width: 300px;
-    height: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 14rem;
-    margin-left: 65rem;
+        margin: 0 auto;
+        display: block;
+        width: 120px; /* Ajustar tamaño para móviles */
+        height: auto;
 }
 
 .section {
